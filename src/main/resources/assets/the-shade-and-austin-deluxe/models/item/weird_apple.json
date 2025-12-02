@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "the-shade-and-austin-deluxe:item/weird_apple"
+  }
+}

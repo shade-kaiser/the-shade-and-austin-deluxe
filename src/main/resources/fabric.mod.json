@@ -3,9 +3,10 @@
 	"id": "the-shade-and-austin-deluxe",
 	"version": "${version}",
 	"name": "the shade and austin deluxe",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Implements the gameplay as God (Shade and Austin) intended",
 	"authors": [
-		"Me!"
+		"Shade",
+		"Austin"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
